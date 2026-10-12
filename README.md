@@ -18,7 +18,11 @@ A charity focused on creative repair, circular economy education and collaborati
 
 ## Projects & impact
 
+The coloured project banners below are original editorial graphics created for this profile, **not photographs or screenshots of the projects**. They link directly to each project website.
+
 At Rebel Punkworx, we create opportunities for young people and communities to tackle real problems through research, design, repair and collaboration. The projects below distinguish **research and proposals** from **working prototypes** and **delivered events**.
+
+[![Project Canary — editorial project banner](assets/canary.svg)](https://punkworx-canary.netlify.app/)
 
 ### 🌦️ [Project Canary — anticipating crises before they escalate](https://punkworx-canary.netlify.app/)
 **Stage:** Early-stage research and design proposition
@@ -27,20 +31,28 @@ How might communities recognise the weak signals of climate-related social stres
 
 **Credits:** Research and report by Amina Hafiz (University of Birmingham); original problem and research brief by Richard Haynes / Rebel Punkworx; brief refinement and project mentoring by Debbie Smith, in collaboration with the Birmingham Institute for Sustainability and Climate Action (BISCA), University of Birmingham. This is not a deployed or validated warning system.
 
+[![Climate Education — editorial project banner](assets/climate.svg)](https://punkworx-climateeduation.netlify.app/)
+
 ### 🎓 [Design & Climate Education Research](https://punkworx-climateeduation.netlify.app/)
 **Stage:** Completed research; recommendations for future educational delivery
 
 A University of Birmingham student consultancy project explored how climate education can move beyond passive awareness toward agency and practical action. Hridayana Lama Tamang's June 2026 research drew on literature and interviews with educators, young people and climate practitioners. Recommendations include hands-on learning, inclusive design, tangible outcomes and repeated engagement rather than one-off sessions.
+
+[![Impact Challenge 2025 — editorial project banner](assets/chiltern.svg)](https://punkworx-impactchallenge2025chiltern.netlify.app/)
 
 ### 🚆 [Impact Challenge 2025 — Chiltern Railways × University of Birmingham](https://punkworx-impactchallenge2025chiltern.netlify.app/)
 **Stage:** Delivered student innovation challenge; concepts proposed
 
 Rebel Punkworx designed and facilitated a week-long, multidisciplinary challenge exploring how rail could become a more attractive alternative to car travel while supporting Chiltern Railways' wider priorities. **100+ applications**, **six selected students**, field research at **three stations** and **12 qualitative interviews** informed the work. Students reframed the question around encouraging car-reliant commuters to consider rail, and developed propositions including heritage journeys, journey-planning assistance and inclusive ticketing. These were concepts, not deployed services.
 
+[![Perdio Radio — editorial project banner](assets/perdio.svg)](https://punkworx-perdio.netlify.app/)
+
 ### 📻 [The Perdio Radio Project](https://punkworx-perdio.netlify.app/)
 **Stage:** Working connected-radio prototype; education and development work
 
 A creative repair and learning project using radio as a practical vehicle for exploring electronics, digital technology and the circular economy. A working connected-radio prototype demonstrates three operating modes; the wider project explores opportunities for hands-on learning with schools.
+
+[![National Emergency Briefing — editorial project banner](assets/neb.svg)](https://punkworx-nebscreening.netlify.app/)
 
 ### 🎬 [National Emergency Briefing — Rebel Punkworx community screening](https://punkworx-nebscreening.netlify.app/)
 **Stage:** Delivered event; ongoing community connections
