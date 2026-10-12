@@ -29,7 +29,7 @@ How might communities recognise the weak signals of climate-related social stres
 
 **Credits:** Research and report by Amina Hafiz (University of Birmingham); original problem and research brief by Richard Haynes / Rebel Punkworx; brief refinement and project mentoring by Debbie Smith, in collaboration with the Birmingham Institute for Sustainability and Climate Action (BISCA), University of Birmingham. This is not a deployed or validated warning system.
 
-[![Climate Education — editorial project banner](assets/climate.svg)](https://punkworx-climateeduation.netlify.app/)
+[![Climate Education — editorial project banner](assets/climate-education-v2.svg)](https://punkworx-climateeduation.netlify.app/)
 
 ### 🎓 [Design & Climate Education Research](https://punkworx-climateeduation.netlify.app/)
 **Stage:** Completed research; recommendations for future educational delivery
