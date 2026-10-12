@@ -16,14 +16,19 @@ Domestic energy assessments, retrofit insight and practical support to help peop
 ### ♻️ [Rebel Punkworx](https://punkworx.org.uk)
 A charity focused on creative repair, circular economy education and collaboration across generations. We work with students, educators and partners to turn real-world challenges into opportunities to learn, experiment and make a difference.
 
-Selected projects and project hubs:
-- **[Impact Challenge 2025 — Chiltern Railways](https://punkworx-impactchallenge2025chiltern.netlify.app/)** — University of Birmingham student innovation sprint exploring rail travel, accessibility and lower-carbon choices.
-- **[Project Canary](https://punkworx-canary.netlify.app/)** — collaborative student research and exploration.
-- **[Perdio Radio Project](https://punkworx-perdio.netlify.app/)** — creativity, repair and learning through radio.
-- **[Climate Education](https://punkworx-climateeduation.netlify.app/)** — exploring practical, cross-curricular climate education.
-- **[National Emergency Briefing](https://punkworx.org.uk/)** — community engagement and climate conversation, including a cinema event in June 2026.
+## Projects & impact
 
-These links showcase project work; they do not imply that all associated research or source code is publicly licensed.
+A selection of Rebel Punkworx projects exploring sustainability, creative repair, education and collaboration.
+
+| Project | Focus |
+| --- | --- |
+| **[Project Canary — an alternative to COBR alerts](https://punkworx-canary.netlify.app/)** | Exploring a different approach to emergency alerts and public communication. |
+| **[Design & Climate Education Research](https://punkworx-climateeduation.netlify.app/)** | Research and development of approaches to climate education. |
+| **[Impact Challenge 2025 — Chiltern Railways × University of Birmingham](https://punkworx-impactchallenge2025chiltern.netlify.app/)** | A collaborative student innovation challenge. |
+| **[The Perdio Radio Project](https://punkworx-perdio.netlify.app/)** | Creative repair, radio and hands-on learning. |
+| **[National Emergency Briefing screening by Rebel Punkworx](https://punkworx-nebscreening.netlify.app/)** | A community screening and climate conversation. |
+
+These project links showcase work and collaborations; they do not imply that associated research or source code is publicly licensed.
 
 ## Areas of interest
 
