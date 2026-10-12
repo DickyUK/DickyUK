@@ -16,10 +16,14 @@ Domestic energy assessments, retrofit insight and practical support to help peop
 ### ♻️ [Rebel Punkworx](https://punkworx.org.uk)
 A charity focused on creative repair, circular economy education and collaboration across generations. We work with students, educators and partners to turn real-world challenges into opportunities to learn, experiment and make a difference.
 
-Selected projects:
+Selected projects and project hubs:
+- **[Impact Challenge 2025 — Chiltern Railways](https://punkworx-impactchallenge2025chiltern.netlify.app/)** — University of Birmingham student innovation sprint exploring rail travel, accessibility and lower-carbon choices.
 - **[Project Canary](https://punkworx-canary.netlify.app/)** — collaborative student research and exploration.
 - **[Perdio Radio Project](https://punkworx-perdio.netlify.app/)** — creativity, repair and learning through radio.
 - **[Climate Education](https://punkworx-climateeduation.netlify.app/)** — exploring practical, cross-curricular climate education.
+- **[National Emergency Briefing](https://punkworx.org.uk/)** — community engagement and climate conversation, including a cinema event in June 2026.
+
+These links showcase project work; they do not imply that all associated research or source code is publicly licensed.
 
 ## Areas of interest
 
