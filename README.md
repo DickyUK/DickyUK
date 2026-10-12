@@ -16,6 +16,27 @@ Domestic energy assessments, retrofit insight and practical support to help peop
 ### ♻️ [Rebel Punkworx](https://punkworx.org.uk)
 A charity focused on creative repair, circular economy education and collaboration across generations. We work with students, educators and partners to turn real-world challenges into opportunities to learn, experiment and make a difference.
 
+## The Rebel Punkworx Method
+
+**Different challenges. One repeatable method. Real-world learning, tangible outcomes and something left behind.**
+
+Across apparently different projects — a railway challenge, an old radio, a community climate problem or an organisational research question — a repeatable approach is emerging. The method creates the conditions for people to investigate real challenges, learn how to think about them and develop responses of their own.
+
+| Step | Method | What it means |
+| :--: | --- | --- |
+| **1** | **Start with something real** | A railway challenge. An old radio. A community climate problem. An organisational research question. |
+| **2** | **Reveal the system** | Who is affected? What behaviours matter? Where do materials come from? What incentives exist? What is not visible? |
+| **3** | **Get close to the problem** | Meet users. Visit places. Handle objects. Interview people. Experience the environment. |
+| **4** | **Teach ways of thinking** | Design thinking. Systems thinking. Empathy. Research. Experimentation. Creative problem-solving. |
+| **5** | **Coach without taking over** | Provide structure, feedback, practitioners, networks and encouragement while preserving autonomy. |
+| **6** | **Make something** | A prototype. Recommendation. Research report. Working object. New proposition. |
+| **7** | **Put it in front of the real world** | Clients. Experts. Users. Practitioners. Communities. |
+| **8** | **Leave something behind** | Knowledge. Documentation. Research. A prototype. A repaired object. An idea an organisation can pursue. |
+
+**The principle:** This isn't a rigid formula or a claim that every project follows an identical path. It's an emerging, transferable way of working — grounded in real situations, with learning through doing, autonomy, external challenge and lasting value.
+
+---
+
 ## Projects & impact
 
 At Rebel Punkworx, we create opportunities for young people and communities to tackle real problems through research, design, repair and collaboration. The projects below distinguish **research and proposals** from **working prototypes** and **delivered events**.
