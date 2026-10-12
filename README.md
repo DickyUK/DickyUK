@@ -6,15 +6,41 @@ I'm a sustainability and social innovation practitioner based in the West Midlan
 
 My interests span better-performing homes, the circular economy, education, collaborative research and accessible digital tools.
 
+## From individuals to communities to planet
+
+**Better homes. Stronger communities. A thriving planet.**
+
+I work across two complementary scales: **B-HEM Solutions Ltd** focuses on individuals and households, while **Rebel Punkworx** brings people together to learn and act on community challenges. Both are informed by the same belief: people, the places they live and the wider planet are interconnected.
+
 ## What I'm building
 
-### 🏡 [B-HEM Solutions](https://bhemsolutions.co.uk)
+### 🏡 [B-HEM Solutions Ltd](https://www.bhemsolutions.co.uk)
 **Better Homes • Lower Energy • Green Performance**
 
-Domestic energy assessments, retrofit insight and practical support to help people understand and improve the performance of their homes. I'm also exploring digital tools, automation and energy data to make that work more useful and accessible.
+*Helping homes work better, so people can live better.*
+
+B-HEM Solutions brings together housing, building performance, assistive technology, technology-enabled care, service design and sustainability around one central question:
+
+**How can we make homes work better for the people who live in them?**
+
+My approach draws on an **MSc in Assistive & Smart Home Technology**, practice in **co-production and participatory design**, **design-thinking masterclasses with the Royal College of Art**, and years of project and programme management. It builds on work with the **Department of Health**, housing and supported-living providers, social workers, occupational therapists and educators. I am also **PAS 2035 trained**, qualified in **RdSAP domestic energy assessment and retrofit auditing**, and an accredited domestic energy assessor whose accreditation can be checked through the official government EPC assessor register.
+
+**The distinctive combination is connecting how buildings perform with how people actually live.** Instead of treating energy efficiency, accessibility, technology, design and behaviour as separate issues, B-HEM considers how they interact as a system — using human-centred design, building science and appropriate technology to promote independence, improve home performance and support everyday life.
+
+Homes should support comfort, health, dignity and opportunity: enabling people to participate in their communities, pursue education and employment, form relationships and live the lives they choose. More efficient, healthier and less expensive-to-run homes can reduce financial pressure and help households afford the adaptations, technologies and support that matter to them.
+
+Today, B-HEM provides energy assessments and retrofit insight while exploring more integrated approaches to smart homes, building performance and lived experience.
+
+**People cannot thrive if their homes don't work for them. And our homes cannot thrive on a planet that isn't thriving.**
+
+For services and enquiries, visit **[bhemsolutions.co.uk](https://www.bhemsolutions.co.uk)**.
 
 ### ♻️ [Rebel Punkworx](https://punkworx.org.uk)
-A charity focused on creative repair, circular economy education and collaboration across generations. We work with students, educators and partners to turn real-world challenges into opportunities to learn, experiment and make a difference.
+**Communities and collective learning**
+
+Rebel Punkworx is a charity focused on creative repair, circular economy education and collaboration across generations. We bring students, educators, practitioners and communities together to tackle real challenges through systems thinking, co-production, research and creative experimentation — leaving behind knowledge, prototypes, practical outcomes and new possibilities.
+
+Together, the two strands connect **individual wellbeing**, **community capability** and our shared responsibility for **planetary wellbeing**.
 
 ## The Rebel Punkworx Method
 
