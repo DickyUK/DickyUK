@@ -18,17 +18,36 @@ A charity focused on creative repair, circular economy education and collaborati
 
 ## Projects & impact
 
-A selection of Rebel Punkworx projects exploring sustainability, creative repair, education and collaboration.
+At Rebel Punkworx, we create opportunities for young people and communities to tackle real problems through research, design, repair and collaboration. The projects below distinguish **research and proposals** from **working prototypes** and **delivered events**.
 
-| Project | Focus |
-| --- | --- |
-| **[Project Canary — an alternative to COBR alerts](https://punkworx-canary.netlify.app/)** | Exploring a different approach to emergency alerts and public communication. |
-| **[Design & Climate Education Research](https://punkworx-climateeduation.netlify.app/)** | Research and development of approaches to climate education. |
-| **[Impact Challenge 2025 — Chiltern Railways × University of Birmingham](https://punkworx-impactchallenge2025chiltern.netlify.app/)** | A collaborative student innovation challenge. |
-| **[The Perdio Radio Project](https://punkworx-perdio.netlify.app/)** | Creative repair, radio and hands-on learning. |
-| **[National Emergency Briefing screening by Rebel Punkworx](https://punkworx-nebscreening.netlify.app/)** | A community screening and climate conversation. |
+### 🌦️ [Project Canary — anticipating crises before they escalate](https://punkworx-canary.netlify.app/)
+**Stage:** Early-stage research and design proposition
 
-These project links showcase work and collaborations; they do not imply that associated research or source code is publicly licensed.
+How might communities recognise the weak signals of climate-related social stress before pressures become crises? Research explored connected indicators across weather, health, housing, food, energy and community intelligence, and possible routes from earlier recognition to action.
+
+**Credits:** Research and report by Amina Hafiz (University of Birmingham); original problem and research brief by Richard Haynes / Rebel Punkworx; brief refinement and project mentoring by Debbie Smith, in collaboration with the Birmingham Institute for Sustainability and Climate Action (BISCA), University of Birmingham. This is not a deployed or validated warning system.
+
+### 🎓 [Design & Climate Education Research](https://punkworx-climateeduation.netlify.app/)
+**Stage:** Completed research; recommendations for future educational delivery
+
+A University of Birmingham student consultancy project explored how climate education can move beyond passive awareness toward agency and practical action. Hridayana Lama Tamang's June 2026 research drew on literature and interviews with educators, young people and climate practitioners. Recommendations include hands-on learning, inclusive design, tangible outcomes and repeated engagement rather than one-off sessions.
+
+### 🚆 [Impact Challenge 2025 — Chiltern Railways × University of Birmingham](https://punkworx-impactchallenge2025chiltern.netlify.app/)
+**Stage:** Delivered student innovation challenge; concepts proposed
+
+Rebel Punkworx designed and facilitated a week-long, multidisciplinary challenge exploring how rail could become a more attractive alternative to car travel while supporting Chiltern Railways' wider priorities. **100+ applications**, **six selected students**, field research at **three stations** and **12 qualitative interviews** informed the work. Students reframed the question around encouraging car-reliant commuters to consider rail, and developed propositions including heritage journeys, journey-planning assistance and inclusive ticketing. These were concepts, not deployed services.
+
+### 📻 [The Perdio Radio Project](https://punkworx-perdio.netlify.app/)
+**Stage:** Working connected-radio prototype; education and development work
+
+A creative repair and learning project using radio as a practical vehicle for exploring electronics, digital technology and the circular economy. A working connected-radio prototype demonstrates three operating modes; the wider project explores opportunities for hands-on learning with schools.
+
+### 🎬 [National Emergency Briefing — Rebel Punkworx community screening](https://punkworx-nebscreening.netlify.app/)
+**Stage:** Delivered event; ongoing community connections
+
+On **17 June 2026**, Rebel Punkworx convened a screening, discussion and Q&A at **The Royal Cinema, Sutton Coldfield**, using the National Emergency Briefing to connect climate awareness with local action. The cinema, operated by PDJ Cinemas, hosted and sponsored the event; Jay Birdi, Rebel Punkworx co-founder and founder of Open Box Procurement, provided important financial support. Fiona Joseph chaired the discussion, with local contributors and partners. A reconvening was planned for **17 December 2026** to examine what happened after the event.
+
+**Evidence and attribution:** These summaries draw on Rebel Punkworx project case studies, research and its 2026 impact report. Student research and project partners are credited without implying institutional endorsement. Emerging ideas are not presented as tested products, and reported participation counts are not added together where they may overlap.
 
 ## Areas of interest
 
