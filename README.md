@@ -18,8 +18,6 @@ A charity focused on creative repair, circular economy education and collaborati
 
 ## Projects & impact
 
-The coloured project banners below are original editorial graphics created for this profile, **not photographs or screenshots of the projects**. They link directly to each project website.
-
 At Rebel Punkworx, we create opportunities for young people and communities to tackle real problems through research, design, repair and collaboration. The projects below distinguish **research and proposals** from **working prototypes** and **delivered events**.
 
 [![Project Canary — editorial project banner](assets/canary.svg)](https://punkworx-canary.netlify.app/)
