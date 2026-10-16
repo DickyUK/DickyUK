@@ -42,6 +42,25 @@ Rebel Punkworx is a charity focused on creative repair, circular economy educati
 
 Together, the two strands connect **individual wellbeing**, **community capability** and our shared responsibility for **planetary wellbeing**.
 
+## Rebel Punkworx cultural values
+
+<details>
+<summary><strong>Explore our cultural values — how we learn, collaborate and act</strong></summary>
+
+[![Rebel Punkworx cultural values: practical, honest, inclusive, future focused and responsible](assets/rebel-punkworx-cultural-values.svg?v=20261016)](https://leafy-bublanina-ecde98.netlify.app/#values)
+
+| Value | What it means in practice |
+| --- | --- |
+| **Practical** | Learning should be applied, not abstract. We focus on doing. |
+| **Honest** | We work on real challenges, not polished case studies. |
+| **Inclusive** | Opportunity should not depend on background or postcode. |
+| **Future focused** | We prepare young people for the world ahead, not the one behind us. |
+| **Responsible** | Sustainability is not a theme, it is a responsibility. |
+
+[See our values on the Rebel Punkworx website →](https://leafy-bublanina-ecde98.netlify.app/#values)
+
+</details>
+
 ## The Rebel Punkworx Method
 
 **Different challenges. One repeatable method. Real-world learning, tangible outcomes and something left behind.**
